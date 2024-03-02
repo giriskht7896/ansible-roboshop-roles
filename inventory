@@ -5,22 +5,22 @@ mongodb.devopsskht.xyz
 catalogue.devopsskht.xyz
 
 [web]
-web.joindevops.devopsskht.xyz
+web.devopsskht.xyz
 
 [redis]
-redis.joindevops.devopsskht.xyz
+redis.devopsskht.xyz
 
 [user]
-user.joindevops.devopsskht.xyz
+user.devopsskht.xyz
 
 [cart]
-cart.joindevops.devopsskht.xyz
+cart.devopsskht.xyz
 
 [mysql]
-mysql.joindevops.devopsskht.xyz
+mysql.devopsskht.xyz
 
 [shipping]
-shipping.joindevops.devopsskht.xyz
+shipping.devopsskht.xyz
 
 [rabbitmq]
 rabbitmq.devopsskht.xyz
